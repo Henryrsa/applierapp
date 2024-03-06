@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796938949800",
+    "project_id": "applier-29b7e",
+    "storage_bucket": "applier-29b7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796938949800:android:d4a4832a50eb0fa956de9d",
+        "android_client_info": {
+          "package_name": "com.example.applierapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796938949800-hoagekl3ji4aclprb78bglar37ti6226.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi0aVFtfxjnPUTncHjMat1kgN8FOINyn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796938949800-hoagekl3ji4aclprb78bglar37ti6226.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
